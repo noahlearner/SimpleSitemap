@@ -1,6 +1,6 @@
-# Simple Sitemap 1.1.0
+# Simple Human Readable Sitemap 1
 
-Simple Sitemap automatically generates an XML [sitemap](http://www.sitemaps.org/) file for
+Based on Simple Sitemap 1.1.0 automatically generates an human readable [sitemap](http://www.sitemaps.org/) file for
 your Craft website.
 
 The generated sitemap is available at `/sitemap.xml` and contains a URL and last modified
